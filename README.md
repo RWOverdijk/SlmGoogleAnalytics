@@ -27,8 +27,7 @@ use 0.2.0 or earlier, any stable of Zend Framework 2 is allowed.
 Installation
 ---
 Add "slm/google-analytics" to your composer.json, run an update with
-composer and enable it in your `application.config.php`. Copy the
-`./vendors/SlmGoogleAnalytics/config/slmgoogleanalytics.global.php.dist`
+composer and enable it in your `application.config.php`. Copy the `./vendor/slm/google-analytics/config/slmgoogleanalytics.global.php.dist`
 to your `./config/autoload/slmgoogleanalytics.global.php`
 and update your web property id there.
 
